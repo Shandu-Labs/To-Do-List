@@ -8,3 +8,11 @@ Features
 4. Delete Tasks
 5. Input ValueError handling
 6. Interactive Menu driven UI
+
+
+Python Fundermentals
+1. Variables and data types
+2. Lists and dictionaries
+3. Loops
+4. String formating with f
+   
